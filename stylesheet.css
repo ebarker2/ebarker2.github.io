@@ -5,6 +5,6 @@ body { background: #D049BC;
 body { font-family: 'Modak', sans-serif; }
 
 h1 { font-size: 250%;
-     font-weight: bold;
-     color: #D049BC; }
+     font-weight: italic;
+     color: #black; }
 h1 { border: 10px #D049BC }
