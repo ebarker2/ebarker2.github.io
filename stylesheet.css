@@ -2,9 +2,9 @@ body { background: #D049BC;
        color: #D049BC;
        font-size: 18pt; }
        
-body { font-family: 'Modak', sans-serif; }
+body { font-family: 'cursive', sans-serif; }
 
 h1 { font-size: 250%;
      font-weight: italic;
      color: #0B0B0B; }
-h1 { border: 10px #D049BC }
+h1 { border: 10px #0B0B0B; }
